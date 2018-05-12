@@ -17,6 +17,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
 description: 'Translation of: Simon Turchi'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13835#The-Amulet
 gutenberg_issued: '2004-10-22'
 gutenberg_type: Text
 identifiers:
